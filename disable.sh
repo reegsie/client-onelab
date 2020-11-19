@@ -1,5 +1,5 @@
 #!/bin/bash
 
-xinput --disable "PixArt USB Optical Mouse" && xinput --disable "DELL DELL USB Entry Keyboard"
+xinput --disable "PixArt USB Optical Mouse" && xinput --disable "Dell Dell USB Entry Keyboard "
 
 
